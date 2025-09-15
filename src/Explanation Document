@@ -1,0 +1,5 @@
+This screenshot(Picture 1.png) shows three iterations of the do while loop. Firstly, the number 89 is inputted, which is an invalid input meaning the program 
+asks again for a valid input from 1-10. After, the number 9 is inputted and the next line prints that the number is odd. Next, a for loop prints 
+all the numbers from 1 to the entered number (9 in this case) skipping over those numbers that are divisible by 3 (in this case: 3, 6 and 9). 
+Then, the switch statement prints the default case, meaning the number is between 5 and 10. Lastly, the program asks the user if they want to continue running the program, which the user inputs yes, meaning another loop of the code must be completed. In this case, the inputted number is 4 (after inputting 12, which was not in the rage 1-10), the next print shows that the number is 4 even and the list from 1-4 is printed (excluding 3 which is a multiple of 3). 
+After one more loop at the program, the user responds “no” and the program is shut down. 
